@@ -734,7 +734,7 @@ bufr4/0/20/063/2,020063,Phénomènes spéciaux,2,"Vitesse maximale du vent moyen
 bufr4/0/20/063/3-6,020063,Phénomènes spéciaux,3-6,En réserve,,,,,Operational,Original
 bufr4/0/20/063/7,020063,Phénomènes spéciaux,7,Visibilité supérieure à 100 000 m,,,,,Operational,Original
 bufr4/0/20/063/8-9,020063,Phénomènes spéciaux,8-9,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,10-19 Mirage,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,10-19 Mirage,,,,,,Original
 bufr4/0/20/063/10,020063,Phénomènes spéciaux,10,Mirage - Pas de spécification,,,,,Operational,Original
 bufr4/0/20/063/11,020063,Phénomènes spéciaux,11,Mirage - Image des objets lointains soulevée,,,,,Operational,Original
 bufr4/0/20/063/12,020063,Phénomènes spéciaux,12,Mirage - Image des objets lointains soulevée complètement au-dessus de l'horizon,,,,,Operational,Original
@@ -745,12 +745,12 @@ bufr4/0/20/063/16,020063,Phénomènes spéciaux,16,Mirage - Soleil ou lune vus d
 bufr4/0/20/063/17,020063,Phénomènes spéciaux,17,"Mirage - Soleil visible, bien qu'astronomiquement il soit en dessous de l'horizon",,,,,Operational,Original
 bufr4/0/20/063/18,020063,Phénomènes spéciaux,18,"Mirage - Lune visible, bien qu'astronomiquement elle soit en dessous de l'horizon",,,,,Operational,Original
 bufr4/0/20/063/19,020063,Phénomènes spéciaux,19,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,"20-22   Obscurité pendant la journée, ciel plus sombre dans la direction spécifiée",,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,"20-22   Obscurité pendant la journée, ciel plus sombre dans la direction spécifiée",,,,,,Original
 bufr4/0/20/063/20,020063,Phénomènes spéciaux,20,"Obscurcissement du jour, jour sombre, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/21,020063,Phénomènes spéciaux,21,"Obscurcissement du jour, jour très sombre, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/22,020063,Phénomènes spéciaux,22,"Obscurcissement du jour, obscurité complète, plus marqué dans la direction spécifiée",,,,,Operational,Original
 bufr4/0/20/063/23-30,020063,Phénomènes spéciaux,23-30,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,31-39 Coloration et/ou convergence des nuages associée à une perturbation tropicale,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,31-39 Coloration et/ou convergence des nuages associée à une perturbation tropicale,,,,,,Original
 bufr4/0/20/063/31,020063,Phénomènes spéciaux,31,Légère coloration des nuages au lever du soleil associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/32,020063,Phénomènes spéciaux,32,Coloration rouge foncé des nuages au lever du soleil associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/33,020063,Phénomènes spéciaux,33,Légère coloration des nuages au coucher du soleil associée à une perturbation tropicale,,,,,Operational,Original
@@ -760,13 +760,13 @@ bufr4/0/20/063/36,020063,Phénomènes spéciaux,36,Convergence de nuages Cہ en 
 bufr4/0/20/063/37,020063,Phénomènes spéciaux,37,"Convergence de nuages C₁ en un point inférieur à 45°, en voie de dissipation ou en diminution, associée à une perturbation tropicale",,,,,Operational,Original
 bufr4/0/20/063/38,020063,Phénomènes spéciaux,38,Convergence de nuages C₁ en un point supérieur à 45° associée à une perturbation tropicale,,,,,Operational,Original
 bufr4/0/20/063/39,020063,Phénomènes spéciaux,39,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,40-43 Gelée blanche ou précipitations colorées,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,40-43 Gelée blanche ou précipitations colorées,,,,,,Original
 bufr4/0/20/063/40,020063,Phénomènes spéciaux,40,Gelée blanche sur les surfaces horizontales,,,,,Operational,Original
 bufr4/0/20/063/41,020063,Phénomènes spéciaux,41,Gelée blanche sur les surfaces horizontales et verticales,,,,,Operational,Original
 bufr4/0/20/063/42,020063,Phénomènes spéciaux,42,Précipitations contenant du sable ou des poussières désertiques,,,,,Operational,Original
 bufr4/0/20/063/43,020063,Phénomènes spéciaux,43,Précipitations contenant des cendres volcaniques,,,,,Operational,Original
 bufr4/0/20/063/44-49,020063,Phénomènes spéciaux,44-49,En réserve,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,50-59 Nature et/ou type de grain,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,50-59 Nature et/ou type de grain,,,,,,Original
 bufr4/0/20/063/50,020063,Phénomènes spéciaux,50,Calme ou vent léger suivi d'un grain,,,,,Operational,Original
 bufr4/0/20/063/51,020063,Phénomènes spéciaux,51,Calme ou vent léger suivi d'une série de grains,,,,,Operational,Original
 bufr4/0/20/063/52,020063,Phénomènes spéciaux,52,Rafales suivies d'un grain,,,,,Operational,Original
@@ -777,7 +777,7 @@ bufr4/0/20/063/56,020063,Phénomènes spéciaux,56,Grain s'approchant de la stat
 bufr4/0/20/063/57,020063,Phénomènes spéciaux,57,Grain en ligne,,,,,Operational,Original
 bufr4/0/20/063/58,020063,Phénomènes spéciaux,58,Grain avec chasse-sable ou chasse-poussière basse ou élevée,,,,,Operational,Original
 bufr4/0/20/063/59,020063,Phénomènes spéciaux,59,Grain en ligne avec chasse-sable ou chasse-poussière basse ou élevée,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,"60-69 Variation de la température durant la période spécifiée, lorsqu'il y a du verglas ou du givre",,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,"60-69 Variation de la température durant la période spécifiée, lorsqu'il y a du verglas ou du givre",,,,,,Original
 bufr4/0/20/063/60,020063,Phénomènes spéciaux,60,Température stationnaire,,,,,Operational,Original
 bufr4/0/20/063/61,020063,Phénomènes spéciaux,61,"Température en baisse, sans descendre en dessous de 0 °C",,,,,Operational,Original
 bufr4/0/20/063/62,020063,Phénomènes spéciaux,62,"Température en hausse, sans dépasser 0 °C",,,,,Operational,Original
@@ -788,7 +788,7 @@ bufr4/0/20/063/66,020063,Phénomènes spéciaux,66,"Variations irrégulières de
 bufr4/0/20/063/67,020063,Phénomènes spéciaux,67,Variations de température non observées,,,,,Operational,Original
 bufr4/0/20/063/68,020063,Phénomènes spéciaux,68,Non alloué,,,,,Operational,Original
 bufr4/0/20/063/69,020063,Phénomènes spéciaux,69,Variations de température inconnues en raison de l'absence de thermographe,,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,70-79   Variation de la visibilité pendant la période spécifiée,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,70-79   Variation de la visibilité pendant la période spécifiée,,,,,,Original
 bufr4/0/20/063/70,020063,Phénomènes spéciaux,70,La visibilité n'a pas varié (soleil* visible) dans la direction spécifiée,,,,,Operational,Original
 bufr4/0/20/063/71,020063,Phénomènes spéciaux,71,La visibilité n'a pas varié (soleil,70-79 Variation de la visibilité pendant la période spécifiée,,*,,Operational,Original
 bufr4/0/20/063/72,020063,Phénomènes spéciaux,72,La visibilité s'est améliorée (soleil,70-79 Variation de la visibilité pendant la période spécifiée,,*,,Operational,Original
@@ -799,7 +799,7 @@ bufr4/0/20/063/76,020063,Phénomènes spéciaux,76,Arrivée de brouillard à par
 bufr4/0/20/063/77,020063,Phénomènes spéciaux,77,Le brouillard s'est élevé sans se dissiper,70-79 Variation de la visibilité pendant la période spécifiée,,,,Operational,Original
 bufr4/0/20/063/78,020063,Phénomènes spéciaux,78,Le brouillard s'est déchiré sans considération de direction,70-79 Variation de la visibilité pendant la période spécifiée,,,,Operational,Original
 bufr4/0/20/063/79,020063,Phénomènes spéciaux,79,Passage de bancs de brouillard plus ou moins continus,70-79 Variation de la visibilité pendant la période spécifiée,,,,Operational,Original
-bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,
+bufr4/0/20/063,020063,Phénomènes spéciaux,,80-89 Phénomènes optiques,,,,,,Original
 bufr4/0/20/063/80,020063,Phénomènes spéciaux,80,Spectre de Brocken,,,,,Operational,Original
 bufr4/0/20/063/81,020063,Phénomènes spéciaux,81,Arc-en-ciel,,,,,Operational,Original
 bufr4/0/20/063/82,020063,Phénomènes spéciaux,82,Halo (solaire ou lunaire),,,,,Operational,Original
@@ -920,7 +920,7 @@ bufr4/0/20/104/8,020104,Degré d'organisation de l'essaim ou de la bande d'acrid
 bufr4/0/20/104/9,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,9,"Acridiens présents partout, causant de graves dommages à la végétation, opération d'extermination en cours",,,,,Operational,Original
 bufr4/0/20/104/10-14,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,10-14,En réserve,,,,,Operational,Original
 bufr4/0/20/104/15,020104,Degré d'organisation de l'essaim ou de la bande d'acridiens,15,Valeur manquante,,,,,Operational,Original
-bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,,
+bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,,,Original
 bufr4/0/20/105/0,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,0,En réserve,,,,,Operational,Original
 bufr4/0/20/105/1,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,1,Zone couverte par des bandes isolées < 10 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
 bufr4/0/20/105/2,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,2,Zone couverte par des bandes isolées 10 - 100 m²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
@@ -933,7 +933,7 @@ bufr4/0/20/105/8,020105,Dimension de l'essaim ou de la bande d'acridiens et dur�
 bufr4/0/20/105/9,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,9,Zone couverte par des bandes dispersées > 1000 km²,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
 bufr4/0/20/105/10-14,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,10-14,En réserve,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
 bufr4/0/20/105/15,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,15,Valeur manquante,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 0:,,,,Operational,Original
-bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 1 à 9:,,,,,
+bufr4/0/20/105,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,,Lorsque 0 020 104 (degré d'organisation de l'essaim ou de la bande d'acridiens) est chiffré 1 à 9:,,,,,,Original
 bufr4/0/20/105/0,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,0,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à moins d'1 heure",,,,,Operational,Original
 bufr4/0/20/105/1,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,1,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à entre 1 et 6 heures",,,,,Operational,Original
 bufr4/0/20/105/2,020105,Dimension de l'essaim ou de la bande d'acridiens et durée du passage de l'essaim,2,"Petit essaim inférieur à 1 km², ou dizaines ou centaines d'individus adultes visibles simultanément au sol, passage remontant à plus de 6 heures",,,,,Operational,Original
@@ -985,7 +985,7 @@ bufr4/0/20/124/0,020124,Coup de foudre ou éclair,0,Non défini,,,,,Operational,
 bufr4/0/20/124/1,020124,Coup de foudre ou éclair,1,Coup de foudre,,,,,Operational,Original
 bufr4/0/20/124/2,020124,Coup de foudre ou éclair,2,"Éclair, par observation manuelle, ou si l'équipement est insensible à la résolution de décharge",,,,,Operational,Original
 bufr4/0/20/124/3,020124,Coup de foudre ou éclair,3,Valeur manquante,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,0-7 Nature des nuages à développement vertical (Ca – Table de code 0531),,,,,
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,0-7 Nature des nuages à développement vertical (Ca – Table de code 0531),,,,,,Original
 bufr4/0/20/136/0,020136,Types de nuages supplémentaires,0,Cumulus humilis et/ou cumulus mediocris isolés à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/1,020136,Types de nuages supplémentaires,1,Cumulus humilis et/ou cumulus mediocris nombreux  à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/2,020136,Types de nuages supplémentaires,2,Cumulus congestus isolés à développement vertical,,,,,Operational,Original
@@ -995,7 +995,7 @@ bufr4/0/20/136/5,020136,Types de nuages supplémentaires,5,Cumulonimbus nombreux
 bufr4/0/20/136/6,020136,Types de nuages supplémentaires,6,Cumulus et cumulonimbus isolés à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/7,020136,Types de nuages supplémentaires,7,Cumulus et cumulonimbus nombreux à développement vertical,,,,,Operational,Original
 bufr4/0/20/136/8-9,020136,Types de nuages supplémentaires,8-9,En réserve,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,10-19 Nuages orographiques (Co – Table de code 0561),,,,,
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,10-19 Nuages orographiques (Co – Table de code 0561),,,,,,Original
 bufr4/0/20/136/11,020136,Types de nuages supplémentaires,11,"Nuages orographiques isolés, pileus, incus, en formation",,,,,Operational,Original
 bufr4/0/20/136/12,020136,Types de nuages supplémentaires,12,"Nuages orographiques isolés, pileus, incus, sans évolution",,,,,Operational,Original
 bufr4/0/20/136/13,020136,Types de nuages supplémentaires,13,"Nuages orographiques isolés, pileus, incus, se dissipant",,,,,Operational,Original
@@ -1005,7 +1005,7 @@ bufr4/0/20/136/16,020136,Types de nuages supplémentaires,16,"Bancs irréguliers
 bufr4/0/20/136/17,020136,Types de nuages supplémentaires,17,"Couche compacte de nuages orographiques, mur de foehn, etc., en formation",,,,,Operational,Original
 bufr4/0/20/136/18,020136,Types de nuages supplémentaires,18,"Couche compacte de nuages orographiques, mur de foehn, etc., sans évolution",,,,,Operational,Original
 bufr4/0/20/136/19,020136,Types de nuages supplémentaires,19,"Couche compacte de nuages orographiques, mur de foehn, etc., se dissipant",,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,20-29 Conditions nuageuses sur les montagnes et les cols (Nm – Table de code 2745),,,,,
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,20-29 Conditions nuageuses sur les montagnes et les cols (Nm – Table de code 2745),,,,,,Original
 bufr4/0/20/136/20,020136,Types de nuages supplémentaires,20,"Toutes les montagnes sont dégagées, seuls quelques nuages peuvent être présents",,,,,Operational,Original
 bufr4/0/20/136/21,020136,Types de nuages supplémentaires,21,Les montagnes sont partiellement couvertes par des nuages épars (on ne peut voir plus de la moitié des sommets),,,,,Operational,Original
 bufr4/0/20/136/22,020136,Types de nuages supplémentaires,22,"Tous les versants sont dans les nuages, les sommets et les cols sont dégagés",,,,,Operational,Original
@@ -1017,13 +1017,13 @@ bufr4/0/20/136/27,020136,Types de nuages supplémentaires,27,"Les montagnes sont
 bufr4/0/20/136/28,020136,Types de nuages supplémentaires,28,"Tous les sommets, cols et versants sont dans les nuages",,,,,Operational,Original
 bufr4/0/20/136/29,020136,Types de nuages supplémentaires,29,"On ne peut voir les montagnes à cause de l'obscurité, du brouillard, des chutes de neige, des précipitations, etc.",,,,,Operational,Original
 bufr4/0/20/136/30-34,020136,Types de nuages supplémentaires,30-34,En réserve,,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,35-39 Traînées de condensation (N – Table de code 2752),,,,,
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,35-39 Traînées de condensation (N – Table de code 2752),,,,,,Original
 bufr4/0/20/136/35,020136,Types de nuages supplémentaires,35,Traînées de condensation non persistantes,,,,,Operational,Original
 bufr4/0/20/136/36,020136,Types de nuages supplémentaires,36,"Traînées de condensation persistantes, couvrant moins de 1/8 du ciel",,,,,Operational,Original
 bufr4/0/20/136/37,020136,Types de nuages supplémentaires,37,"Traînées de condensation persistantes, couvrant 1/8 du ciel",,,,,Operational,Original
 bufr4/0/20/136/38,020136,Types de nuages supplémentaires,38,"Traînées de condensation persistantes, couvrant 2/8 du ciel",,,,,Operational,Original
 bufr4/0/20/136/39,020136,Types de nuages supplémentaires,39,"Traînées de condensation persistantes, couvrant 3/8 du ciel ou plus",,,,,Operational,Original
-bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,
+bufr4/0/20/136,020136,Types de nuages supplémentaires,,40-49 Conditions nuageuses observées d'un niveau supérieur (N – Table de code 2754),,,,,,Original
 bufr4/0/20/136/40,020136,Types de nuages supplémentaires,40,Pas de nuages ni de brume observés d'un niveau supérieur,,,,,Operational,Original
 bufr4/0/20/136/41,020136,Types de nuages supplémentaires,41,Brume et ciel clair au-dessus observés d'un niveau supérieur,,,,,Operational,Original
 bufr4/0/20/136/42,020136,Types de nuages supplémentaires,42,Bancs de brouillard épars observés d'un niveau supérieur,,,,,Operational,Original
