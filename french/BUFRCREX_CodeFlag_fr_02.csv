@@ -1,18 +1,18 @@
-Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translation
-bufr4/0/02/001/0,002001,Type de station,0,Station automatique,,,,,Operational,original
-bufr4/0/02/001/1,002001,Type de station,1,Station dotée de personnel,,,,,Operational,original
-bufr4/0/02/001/2,002001,Type de station,2,Station mixte: automatique et dotée de personnel,,,,,Operational,original
-bufr4/0/02/001/3,002001,Type de station,3,Valeur manquante,,,,,Operational,original
-bufr4/0/02/002,002002,Type d'instrument pour la mesure du vent,,Type d'instrument et unités initiales pour la mesure du vent (en m s-¹ sauf indication contraire),,,,,Operational,original
-bufr4/0/02/002/1,002002,Type d'instrument pour la mesure du vent,1,Instruments homologués,,,,,Operational,original
-bufr4/0/02/002/2,002002,Type d'instrument pour la mesure du vent,2,Mesuré initialement en nœuds,,,,,Operational,original
-bufr4/0/02/002/3,002002,Type d'instrument pour la mesure du vent,3,Mesuré initialement en km h-¹,,,,,Operational,original
-bufr4/0/02/002/4-bits-mis-à-1,002002,Type d'instrument pour la mesure du vent,4 bits mis à 1,Valeur manquante,,,,,Operational,original
-bufr4/0/02/003/0,002003,Type d'équipement de mesure utilisé,0,Instruments de mesure de la pression associés à l'équipement de mesure du vent,,,,,Operational,original
-bufr4/0/02/003/1,002003,Type d'équipement de mesure utilisé,1,Théodolite optique,,,,,Operational,original
-bufr4/0/02/003/2,002003,Type d'équipement de mesure utilisé,2,Radiothéodolite,,,,,Operational,original
-bufr4/0/02/003/3,002003,Type d'équipement de mesure utilisé,3,Radar,,,,,Operational,original
-bufr4/0/02/003/4,002003,Type d'équipement de mesure utilisé,4,Système Oméga en ondes myriamétriques,,,,,Operational,original
+Id,FXY,ElementName_fr,CodeFigure,EntryName_fr,EntryName_sub1_fr,EntryName_sub2_fr,Note_fr,noteIDs,Status,translated_by
+bufr4/0/02/001/0,002001,Type de station,0,Station automatique,,,,,Operational,Original
+bufr4/0/02/001/1,002001,Type de station,1,Station dotée de personnel,,,,,Operational,Original
+bufr4/0/02/001/2,002001,Type de station,2,Station mixte: automatique et dotée de personnel,,,,,Operational,Original
+bufr4/0/02/001/3,002001,Type de station,3,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/002,002002,Type d'instrument pour la mesure du vent,,Type d'instrument et unités initiales pour la mesure du vent (en m s-¹ sauf indication contraire),,,,,Operational,Original
+bufr4/0/02/002/1,002002,Type d'instrument pour la mesure du vent,1,Instruments homologués,,,,,Operational,Original
+bufr4/0/02/002/2,002002,Type d'instrument pour la mesure du vent,2,Mesuré initialement en nœuds,,,,,Operational,Original
+bufr4/0/02/002/3,002002,Type d'instrument pour la mesure du vent,3,Mesuré initialement en km h-¹,,,,,Operational,Original
+bufr4/0/02/002/4-bits-mis-à-1,002002,Type d'instrument pour la mesure du vent,4 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/003/0,002003,Type d'équipement de mesure utilisé,0,Instruments de mesure de la pression associés à l'équipement de mesure du vent,,,,,Operational,Original
+bufr4/0/02/003/1,002003,Type d'équipement de mesure utilisé,1,Théodolite optique,,,,,Operational,Original
+bufr4/0/02/003/2,002003,Type d'équipement de mesure utilisé,2,Radiothéodolite,,,,,Operational,Original
+bufr4/0/02/003/3,002003,Type d'équipement de mesure utilisé,3,Radar,,,,,Operational,Original
+bufr4/0/02/003/4,002003,Type d'équipement de mesure utilisé,4,Système Oméga en ondes myriamétriques,,,,,Operational,Original
 bufr4/0/02/003/5,002003,Type d'équipement de mesure utilisé,5,Loran-C,,,,,Operational
 bufr4/0/02/003/6,002003,Type d'équipement de mesure utilisé,6,Profileur de vent,,,,,Operational
 bufr4/0/02/003/7,002003,Type d'équipement de mesure utilisé,7,Localisation par satellite,,,,,Operational
@@ -1025,66 +1025,66 @@ bufr4/0/02/185/4,002185,Méthode de mesure de l'évaporation,4,Méthode hydrauli
 bufr4/0/02/185/5-13,002185,Méthode de mesure de l'évaporation,5-13,En réserve,,,,,Operational
 bufr4/0/02/185/14,002185,Méthode de mesure de l'évaporation,14,Autre,,,,,Operational
 bufr4/0/02/185/15,002185,Méthode de mesure de l'évaporation,15,Valeur manquante,,,,,Operational
-bufr4/0/02/186/1,002186,Détection des divers types de précipitations,1,Type de précipitation inconnu,,,,,Operational,original
-bufr4/0/02/186/2,002186,Détection des divers types de précipitations,2,Précipitation liquide ne se congelant pas,,,,,Operational,original
-bufr4/0/02/186/3,002186,Détection des divers types de précipitations,3,Précipitation liquide se congelant,,,,,Operational,original
-bufr4/0/02/186/4,002186,Détection des divers types de précipitations,4,Bruine,,,,,Operational,original
-bufr4/0/02/186/5,002186,Détection des divers types de précipitations,5,Pluie,,,,,Operational,original
-bufr4/0/02/186/6,002186,Détection des divers types de précipitations,6,Précipitation solide,,,,,Operational,original
-bufr4/0/02/186/7,002186,Détection des divers types de précipitations,7,Neige,,,,,Operational,original
-bufr4/0/02/186/8,002186,Détection des divers types de précipitations,8,Neige en grains,,,,,Operational,original
-bufr4/0/02/186/9,002186,Détection des divers types de précipitations,9,Neige roulée,,,,,Operational,original
-bufr4/0/02/186/10,002186,Détection des divers types de précipitations,10,Granules de glace,,,,,Operational,original
-bufr4/0/02/186/11,002186,Détection des divers types de précipitations,11,Cristaux de glace,,,,,Operational,original
-bufr4/0/02/186/12,002186,Détection des divers types de précipitations,12,Poudrin de glace,,,,,Operational,original
-bufr4/0/02/186/13,002186,Détection des divers types de précipitations,13,Grésil,,,,,Operational,original
-bufr4/0/02/186/14,002186,Détection des divers types de précipitations,14,Grêle,,,,,Operational,original
-bufr4/0/02/186/15,002186,Détection des divers types de précipitations,15,Verglas,,,,,Operational,original
-bufr4/0/02/186/16,002186,Détection des divers types de précipitations,16,Givre,,,,,Operational,original
-bufr4/0/02/186/17,002186,Détection des divers types de précipitations,17,Givre mou,,,,,Operational,original
-bufr4/0/02/186/18,002186,Détection des divers types de précipitations,18,Givre dur,,,,,Operational,original
-bufr4/0/02/186/19,002186,Détection des divers types de précipitations,19,Givre transparent,,,,,Operational,original
-bufr4/0/02/186/20,002186,Détection des divers types de précipitations,20,Neige mouillée,,,,,Operational,original
-bufr4/0/02/186/21,002186,Détection des divers types de précipitations,21,Gelée blanche,,,,,Operational,original
-bufr4/0/02/186/22,002186,Détection des divers types de précipitations,22,Rosée,,,,,Operational,original
-bufr4/0/02/186/23,002186,Détection des divers types de précipitations,23,Rosée blanche,,,,,Operational,original
-bufr4/0/02/186/24,002186,Détection des divers types de précipitations,24,Précipitations convectives,,,,,Operational,original
-bufr4/0/02/186/25-29,002186,Détection des divers types de précipitations,25-29,En réserve,,,,,Operational,original
-bufr4/0/02/186/30-bits-mis-à-1,002186,Détection des divers types de précipitations,30 bits mis à 1,Valeur manquante,,,,,Operational,original
-bufr4/0/02/187/1,002187,Détection d'autres phénomènes météorologiques,1,Tourbillon de poussière/de sable,,,,,Operational,original
-bufr4/0/02/187/2,002187,Détection d'autres phénomènes météorologiques,2,Grains,,,,,Operational,original
-bufr4/0/02/187/3,002187,Détection d'autres phénomènes météorologiques,3,Tempête de sable,,,,,Operational,original
-bufr4/0/02/187/4,002187,Détection d'autres phénomènes météorologiques,4,Tempête de poussière,,,,,Operational,original
-bufr4/0/02/187/5,002187,Détection d'autres phénomènes météorologiques,5,Foudre - nuage à surface,,,,,Operational,original
-bufr4/0/02/187/6,002187,Détection d'autres phénomènes météorologiques,6,Foudre - nuage à nuage,,,,,Operational,original
-bufr4/0/02/187/7,002187,Détection d'autres phénomènes météorologiques,7,Foudre - distante,,,,,Operational,original
-bufr4/0/02/187/8,002187,Détection d'autres phénomènes météorologiques,8,Orage,,,,,Operational,original
-bufr4/0/02/187/9,002187,Détection d'autres phénomènes météorologiques,9,Nuage en entonnoir ne touchant pas la surface,,,,,Operational,original
-bufr4/0/02/187/10,002187,Détection d'autres phénomènes météorologiques,10,Nuage en entonnoir touchant la surface,,,,,Operational,original
-bufr4/0/02/187/11,002187,Détection d'autres phénomènes météorologiques,11,Embruns,,,,,Operational,original
-bufr4/0/02/187/12-17,002187,Détection d'autres phénomènes météorologiques,12-17,En réserve,,,,,Operational,original
-bufr4/0/02/187/18-bits-mis-à-1,002187,Détection d'autres phénomènes météorologiques,18 bits mis à 1,Valeur manquante,,,,,Operational,original
-bufr4/0/02/188/1,002188,Détection d'un obscurcissement,1,Brouillard,,,,,Operational,original
-bufr4/0/02/188/2,002188,Détection d'un obscurcissement,2,Brouillard glacé,,,,,Operational,original
-bufr4/0/02/188/3,002188,Détection d'un obscurcissement,3,Brouillard d'évaporation,,,,,Operational,original
-bufr4/0/02/188/4-6,002188,Détection d'un obscurcissement,4-6,En réserve,,,,,Operational,original
-bufr4/0/02/188/7,002188,Détection d'un obscurcissement,7,Brume,,,,,Operational,original
-bufr4/0/02/188/8,002188,Détection d'un obscurcissement,8,Brume sèche,,,,,Operational,original
-bufr4/0/02/188/9,002188,Détection d'un obscurcissement,9,Fumée,,,,,Operational,original
-bufr4/0/02/188/10,002188,Détection d'un obscurcissement,10,Cendre volcanique,,,,,Operational,original
-bufr4/0/02/188/11,002188,Détection d'un obscurcissement,11,Poussière,,,,,Operational,original
-bufr4/0/02/188/12,002188,Détection d'un obscurcissement,12,Sable,,,,,Operational,original
-bufr4/0/02/188/13,002188,Détection d'un obscurcissement,13,Neige,,,,,Operational,original
-bufr4/0/02/188/14-20,002188,Détection d'un obscurcissement,14-20,En réserve,,,,,Operational,original
-bufr4/0/02/188/21-bits-mis-à-1,002188,Détection d'un obscurcissement,21 bits mis à 1,Valeur manquante,,,,,Operational,original
-bufr4/0/02/189/1,002189,Distinction entre les différents types d'éclairs,1,Observation manuelle,,,,,Operational,original
-bufr4/0/02/189/2,002189,Distinction entre les différents types d'éclairs,2,Tous les éclairs sans différenciation,,,,,Operational,original
-bufr4/0/02/189/3,002189,Distinction entre les différents types d'éclairs,3,Éclairs de nuage à surface seulement,,,,,Operational,original
-bufr4/0/02/189/4,002189,Distinction entre les différents types d'éclairs,4,Tous les éclairs avec une différenciation entre nuage à surface et nuage à nuage,,,,,Operational,original
-bufr4/0/02/189/5-11,002189,Distinction entre les différents types d'éclairs,5-11,En réserve,,,,,Operational,original
-bufr4/0/02/189/12-bits-mis-à-1,002189,Distinction entre les différents types d'éclairs,12 bits mis à 1,Valeur manquante,,,,,Operational,original
-bufr4/0/02/191/0,002191,Calcul de la hauteur géopotentielle,0,"Altitude géopotentielle, basée sur la pression",,,,,Operational,original
-bufr4/0/02/191/1,002191,Calcul de la hauteur géopotentielle,1,"Altitude géopotentielle, basée sur l'altitude GPS",,,,,Operational,original
-bufr4/0/02/191/2,002191,Calcul de la hauteur géopotentielle,2,"Altitude géopotentielle, basée sur l'altitude radar",,,,,Operational,original
-bufr4/0/02/191/3-14,002191,Calcul de la hauteur géopotentielle,3-14,En réserve,,,,,Operational,original
-bufr4/0/02/191/15,002191,Calcul de la hauteur géopotentielle,15,Valeur manquante,,,,,Operational,original
+bufr4/0/02/186/1,002186,Détection des divers types de précipitations,1,Type de précipitation inconnu,,,,,Operational,Original
+bufr4/0/02/186/2,002186,Détection des divers types de précipitations,2,Précipitation liquide ne se congelant pas,,,,,Operational,Original
+bufr4/0/02/186/3,002186,Détection des divers types de précipitations,3,Précipitation liquide se congelant,,,,,Operational,Original
+bufr4/0/02/186/4,002186,Détection des divers types de précipitations,4,Bruine,,,,,Operational,Original
+bufr4/0/02/186/5,002186,Détection des divers types de précipitations,5,Pluie,,,,,Operational,Original
+bufr4/0/02/186/6,002186,Détection des divers types de précipitations,6,Précipitation solide,,,,,Operational,Original
+bufr4/0/02/186/7,002186,Détection des divers types de précipitations,7,Neige,,,,,Operational,Original
+bufr4/0/02/186/8,002186,Détection des divers types de précipitations,8,Neige en grains,,,,,Operational,Original
+bufr4/0/02/186/9,002186,Détection des divers types de précipitations,9,Neige roulée,,,,,Operational,Original
+bufr4/0/02/186/10,002186,Détection des divers types de précipitations,10,Granules de glace,,,,,Operational,Original
+bufr4/0/02/186/11,002186,Détection des divers types de précipitations,11,Cristaux de glace,,,,,Operational,Original
+bufr4/0/02/186/12,002186,Détection des divers types de précipitations,12,Poudrin de glace,,,,,Operational,Original
+bufr4/0/02/186/13,002186,Détection des divers types de précipitations,13,Grésil,,,,,Operational,Original
+bufr4/0/02/186/14,002186,Détection des divers types de précipitations,14,Grêle,,,,,Operational,Original
+bufr4/0/02/186/15,002186,Détection des divers types de précipitations,15,Verglas,,,,,Operational,Original
+bufr4/0/02/186/16,002186,Détection des divers types de précipitations,16,Givre,,,,,Operational,Original
+bufr4/0/02/186/17,002186,Détection des divers types de précipitations,17,Givre mou,,,,,Operational,Original
+bufr4/0/02/186/18,002186,Détection des divers types de précipitations,18,Givre dur,,,,,Operational,Original
+bufr4/0/02/186/19,002186,Détection des divers types de précipitations,19,Givre transparent,,,,,Operational,Original
+bufr4/0/02/186/20,002186,Détection des divers types de précipitations,20,Neige mouillée,,,,,Operational,Original
+bufr4/0/02/186/21,002186,Détection des divers types de précipitations,21,Gelée blanche,,,,,Operational,Original
+bufr4/0/02/186/22,002186,Détection des divers types de précipitations,22,Rosée,,,,,Operational,Original
+bufr4/0/02/186/23,002186,Détection des divers types de précipitations,23,Rosée blanche,,,,,Operational,Original
+bufr4/0/02/186/24,002186,Détection des divers types de précipitations,24,Précipitations convectives,,,,,Operational,Original
+bufr4/0/02/186/25-29,002186,Détection des divers types de précipitations,25-29,En réserve,,,,,Operational,Original
+bufr4/0/02/186/30-bits-mis-à-1,002186,Détection des divers types de précipitations,30 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/187/1,002187,Détection d'autres phénomènes météorologiques,1,Tourbillon de poussière/de sable,,,,,Operational,Original
+bufr4/0/02/187/2,002187,Détection d'autres phénomènes météorologiques,2,Grains,,,,,Operational,Original
+bufr4/0/02/187/3,002187,Détection d'autres phénomènes météorologiques,3,Tempête de sable,,,,,Operational,Original
+bufr4/0/02/187/4,002187,Détection d'autres phénomènes météorologiques,4,Tempête de poussière,,,,,Operational,Original
+bufr4/0/02/187/5,002187,Détection d'autres phénomènes météorologiques,5,Foudre - nuage à surface,,,,,Operational,Original
+bufr4/0/02/187/6,002187,Détection d'autres phénomènes météorologiques,6,Foudre - nuage à nuage,,,,,Operational,Original
+bufr4/0/02/187/7,002187,Détection d'autres phénomènes météorologiques,7,Foudre - distante,,,,,Operational,Original
+bufr4/0/02/187/8,002187,Détection d'autres phénomènes météorologiques,8,Orage,,,,,Operational,Original
+bufr4/0/02/187/9,002187,Détection d'autres phénomènes météorologiques,9,Nuage en entonnoir ne touchant pas la surface,,,,,Operational,Original
+bufr4/0/02/187/10,002187,Détection d'autres phénomènes météorologiques,10,Nuage en entonnoir touchant la surface,,,,,Operational,Original
+bufr4/0/02/187/11,002187,Détection d'autres phénomènes météorologiques,11,Embruns,,,,,Operational,Original
+bufr4/0/02/187/12-17,002187,Détection d'autres phénomènes météorologiques,12-17,En réserve,,,,,Operational,Original
+bufr4/0/02/187/18-bits-mis-à-1,002187,Détection d'autres phénomènes météorologiques,18 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/188/1,002188,Détection d'un obscurcissement,1,Brouillard,,,,,Operational,Original
+bufr4/0/02/188/2,002188,Détection d'un obscurcissement,2,Brouillard glacé,,,,,Operational,Original
+bufr4/0/02/188/3,002188,Détection d'un obscurcissement,3,Brouillard d'évaporation,,,,,Operational,Original
+bufr4/0/02/188/4-6,002188,Détection d'un obscurcissement,4-6,En réserve,,,,,Operational,Original
+bufr4/0/02/188/7,002188,Détection d'un obscurcissement,7,Brume,,,,,Operational,Original
+bufr4/0/02/188/8,002188,Détection d'un obscurcissement,8,Brume sèche,,,,,Operational,Original
+bufr4/0/02/188/9,002188,Détection d'un obscurcissement,9,Fumée,,,,,Operational,Original
+bufr4/0/02/188/10,002188,Détection d'un obscurcissement,10,Cendre volcanique,,,,,Operational,Original
+bufr4/0/02/188/11,002188,Détection d'un obscurcissement,11,Poussière,,,,,Operational,Original
+bufr4/0/02/188/12,002188,Détection d'un obscurcissement,12,Sable,,,,,Operational,Original
+bufr4/0/02/188/13,002188,Détection d'un obscurcissement,13,Neige,,,,,Operational,Original
+bufr4/0/02/188/14-20,002188,Détection d'un obscurcissement,14-20,En réserve,,,,,Operational,Original
+bufr4/0/02/188/21-bits-mis-à-1,002188,Détection d'un obscurcissement,21 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/189/1,002189,Distinction entre les différents types d'éclairs,1,Observation manuelle,,,,,Operational,Original
+bufr4/0/02/189/2,002189,Distinction entre les différents types d'éclairs,2,Tous les éclairs sans différenciation,,,,,Operational,Original
+bufr4/0/02/189/3,002189,Distinction entre les différents types d'éclairs,3,Éclairs de nuage à surface seulement,,,,,Operational,Original
+bufr4/0/02/189/4,002189,Distinction entre les différents types d'éclairs,4,Tous les éclairs avec une différenciation entre nuage à surface et nuage à nuage,,,,,Operational,Original
+bufr4/0/02/189/5-11,002189,Distinction entre les différents types d'éclairs,5-11,En réserve,,,,,Operational,Original
+bufr4/0/02/189/12-bits-mis-à-1,002189,Distinction entre les différents types d'éclairs,12 bits mis à 1,Valeur manquante,,,,,Operational,Original
+bufr4/0/02/191/0,002191,Calcul de la hauteur géopotentielle,0,"Altitude géopotentielle, basée sur la pression",,,,,Operational,Original
+bufr4/0/02/191/1,002191,Calcul de la hauteur géopotentielle,1,"Altitude géopotentielle, basée sur l'altitude GPS",,,,,Operational,Original
+bufr4/0/02/191/2,002191,Calcul de la hauteur géopotentielle,2,"Altitude géopotentielle, basée sur l'altitude radar",,,,,Operational,Original
+bufr4/0/02/191/3-14,002191,Calcul de la hauteur géopotentielle,3-14,En réserve,,,,,Operational,Original
+bufr4/0/02/191/15,002191,Calcul de la hauteur géopotentielle,15,Valeur manquante,,,,,Operational,Original
